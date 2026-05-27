@@ -19,7 +19,7 @@
 
 02. colors: maketintsandshades.com | coolors.co/contrast-checker | yeun.github.io/open-color
   - primary: #e67e22
-  - tints: #fdf2e9 | #fae5d3
+  - tints: #fdf2e9 | #fae5d3 | #eb984e
   - shades: #cf711f
   - accents:
   - grays: #333 | #555 | #888 | #6f6f6f (lightest gray allowed on #fdf2e9) | #ddd |
@@ -32,6 +32,7 @@
 04. icons
 
 05. shadows
+  - 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
 
 06. border-radius
   - default: 9px
