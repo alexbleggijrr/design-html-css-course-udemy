@@ -23,6 +23,9 @@
   - shades: #cf711f
   - accents:
   - grays: #333 | #555 | #888 | #ddd
+  - green: #51cf66
+  - tea: #94d82d
+  - yellow: #ffd43b
 
 03. images: unsplash.com | uifaces.co
 
@@ -32,6 +35,7 @@
 
 06. border-radius
   - default: 9px
+  - medium: 11px
 
 07. whitespace
   - spacing system (px):
@@ -162,4 +166,8 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
