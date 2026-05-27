@@ -22,7 +22,7 @@
   - tints: #fdf2e9 | #fae5d3
   - shades: #cf711f
   - accents:
-  - grays: #333 | #555 | #888 | #ddd
+  - grays: #333 | #555 | #888 | #6f6f6f (lightest gray allowed on #fdf2e9) | #ddd |
   - green: #51cf66
   - tea: #94d82d
   - yellow: #ffd43b
